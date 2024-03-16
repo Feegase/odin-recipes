@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(238, 213, 184);
+}
+.main {
+    color: rgb(59, 59, 59);
+    background-color: #c9b181;
+    font-size: 64px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px black;
+}
+p {
+    color: rgb(59, 59, 59);
+    background-color: #c9b181;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    border: 5px black;
+    text-align: center;    
+}
+.li {
+    font-size: 36px;
+    background-color: #c9b181;
+    margin: 20px;
+    padding: 5px;
+    color: rgb(59, 59, 59);
+
+}
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+
+}
+a {
+    color: rgb(59, 59, 59);
+}
+h2 {
+    color: rgb(59, 59, 59);
+    background-color: #c9b181;
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px black;
+}
+.Ingredients {
+    font-size: xx-large;
+}
